@@ -25,11 +25,13 @@ Here are some ideas to get you started:
 ![java](https://img.shields.io/badge/-java-brightgreen)
 ![python](https://img.shields.io/badge/-python-blue)
 ![unity](https://img.shields.io/badge/-unity-purple)
+
 ![unreal](https://img.shields.io/badge/-unreal-magenta)
 ![kotlin](https://img.shields.io/badge/-kotlin-black)
 
 ![oracle](https://img.shields.io/badge/-oracle-red)
 ![mysql](https://img.shields.io/badge/-mysql-orange)
 ![git](https://img.shields.io/badge/-git-yellow)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-brightgreen)
 ![css](https://img.shields.io/badge/-css-blue)
