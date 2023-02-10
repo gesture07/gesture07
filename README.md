@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 ![oracle](https://img.shields.io/badge/-oracle-red)
 ![mysql](https://img.shields.io/badge/-mysql-orange)
 ![git](https://img.shields.io/badge/-git-yellow)
+![HTML5](https://img.shields.io/badge/-HTML5-brightgreen)
+![css](https://img.shields.io/badge/-css-blue)
