@@ -33,5 +33,3 @@ Here are some ideas to get you started:
 ![mysql](https://img.shields.io/badge/-mysql-orange)
 ![git](https://img.shields.io/badge/-git-yellow)
 
-![HTML5](https://img.shields.io/badge/-HTML5-red)
-![css](https://img.shields.io/badge/-css-orange)
