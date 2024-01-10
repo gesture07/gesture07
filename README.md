@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://github.com/gesture07/hit-counter
+
 ### 📫 How to reach me:1130emma@naver.com 
 <a href="https://gombinimbi.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-eb531f?style=plastic&logo=Tistory&logoColor=Red"/></a>
 
