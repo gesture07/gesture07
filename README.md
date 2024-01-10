@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 ![mysql](https://img.shields.io/badge/-mysql-orange)
 ![git](https://img.shields.io/badge/-git-yellow)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gesture07&show_icons=true&theme=radical)
