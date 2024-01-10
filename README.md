@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 📫 How to reach me:1130emma@naver.com 
-<a href="https://gombinimbi.tistory.com" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000000?style=plastic&logo=로고&logoColor=로고색상"/></a>
+<a href="https://gombinimbi.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=Black"/></a>
 
 
 ### Language
